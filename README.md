@@ -49,15 +49,12 @@ Visit: [youtube.com/c/gildomingoss](https://www.youtube.com/c/gildomingoss)
 
 ## 📮 How to Reach Me
 
-- **Telegram**: [@GildomingosSecurityHub](https://t.me/GildomingosSecurityHub)
 - **Instagram**: [@gildomingoss](https://www.instagram.com/gildomingoss/)
-- **LinkedIn**: [linkedin.com/in/gildomingos](https://www.linkedin.com/in/gildomingos/)
-- **Location**: Minas Gerais, Brazil 🇧🇷
+- **LinkedIn**: [linkedin.com/in/gil-domingos](https://www.linkedin.com/in/gil-domingos/)- **Location**: Minas Gerais, Brazil 🇧🇷
 
 ## 🔗 Additional Links
 
 - [GitHub Profile](https://github.com/gildomingosmg)
-- [GCODE Security](https://t.me/GildomingosSecurityHub)
 - [Security Research & Tools](https://github.com/gildomingosmg?tab=repositories)
 
 ---
