@@ -1,16 +1,67 @@
-## Hi there 👋
+# Gilberto Domingos - Cybersecurity & Penetration Testing Expert
 
-<!--
-**gildomingosmg/gildomingosmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/github-gildomingosmg-blue)](https://github.com/gildomingosmg)
+[![YouTube](https://img.shields.io/badge/youtube-GCODE%20MINAS-red)](https://www.youtube.com/c/gildomingoss)
+[![Instagram](https://img.shields.io/badge/instagram-gildomingoss-pink)](https://www.instagram.com/gildomingoss/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-gildomingos-blue)](https://www.linkedin.com/in/gildomingos/)
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Security Researcher | Penetration Tester | Digital Forensics Expert | AI Security Solutions Developer**
+
+I'm a passionate cybersecurity specialist with expertise in:
+- **Penetration Testing** - Identifying and exploiting vulnerabilities
+- **Digital Forensics** - Analyzing security incidents & evidence preservation
+- **Ethical Hacking** - Authorized security assessments
+- **AI & Security Tools** - Developing intelligent security solutions
+- **Vulnerability Assessment** - Security auditing & remediation
+
+## 🚀 Skills & Expertise
+
+### Security Specializations
+- Penetration Testing (NMAP, Burp Suite, Metasploit)
+- Digital Forensics (Autopsy, PowerForensics)
+- Network Security & Firewall Configuration
+- API Security Testing
+- Cloud Security (GCP)
+- Reverse Engineering & Malware Analysis
+
+### Technical Skills
+- **Languages**: Python, PowerShell, Bash, JavaScript
+- **Tools**: Kali Linux, Docker, GitHub, Burp Suite
+- **Platforms**: Linux, Windows, Cloud Infrastructure
+- **Methodologies**: OWASP Top 10, CTF Challenges, Red Team Tactics
+
+## 🌟 Featured Projects
+
+- **[gerador_marketing](https://github.com/gildomingosmg/gerador_marketing)** - Marketing automation tools
+- **[nextjs-ai-chatbot](https://github.com/gildomingosmg/nextjs-ai-chatbot)** - AI-powered security chatbot
+
+## 🎉 Content & Community
+
+**GCODE MINAS YouTube Channel** (7.5K+ subscribers)
+- Cybersecurity tutorials & ethical hacking
+- Penetration testing demonstrations
+- Digital forensics walkthroughs
+- AI security solutions
+
+Visit: [youtube.com/c/gildomingoss](https://www.youtube.com/c/gildomingoss)
+
+## 📮 How to Reach Me
+
+- **Telegram**: [@GildomingosSecurityHub](https://t.me/GildomingosSecurityHub)
+- **Instagram**: [@gildomingoss](https://www.instagram.com/gildomingoss/)
+- **LinkedIn**: [linkedin.com/in/gildomingos](https://www.linkedin.com/in/gildomingos/)
+- **Location**: Minas Gerais, Brazil 🇧🇷
+
+## 🔗 Additional Links
+
+- [GitHub Profile](https://github.com/gildomingosmg)
+- [GCODE Security](https://t.me/GildomingosSecurityHub)
+- [Security Research & Tools](https://github.com/gildomingosmg?tab=repositories)
+
+---
+
+**Let's connect! I'm always interested in security collaborations, bug bounty hunting, and CTF challenges.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=gildomingosmg&color=blue)
